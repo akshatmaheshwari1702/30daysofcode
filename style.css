@@ -1,0 +1,25 @@
+body {
+  background: #333;
+  color: white;
+}
+
+header {
+  background: white;
+  color: #333;
+  width: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 20px;
+  border: 10px solid yellow;
+}
+
+main {
+  background: lightblue;
+  color: #333;
+  width: 250px;
+  padding-left: 200px;
+  
+  
+}
